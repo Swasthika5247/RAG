@@ -1,0 +1,55 @@
+# RAG Learning Journey
+
+A hands-on journey to learn and build Retrieval-Augmented Generation (RAG) systems using Python and LangChain.
+
+## Goal
+
+Build a strong understanding of RAG from the fundamentals to production-ready systems through daily experimentation and projects.
+
+## Topics
+
+- Document Loaders
+- Document Processing
+- Text Splitting
+- Chunking Strategies
+- Embeddings
+- Vector Databases
+- Similarity Search
+- Retrievers
+- Prompt Engineering
+- LangChain
+- LCEL
+- RAG Pipelines
+- Reranking
+- Hybrid Search
+- Query Transformation
+- RAG Evaluation
+- Production RAG
+
+## Daily Progress
+
+| Day | Topic | What I Built |
+|---|---|---|
+| 1 | TextLoader | Loaded and queried a text document |
+| 2 | PyPDFLoader | Loaded and queried a PDF |
+| 3 | | |
+| 4 | | |
+| 5 | | |
+
+## Tech Stack
+
+- Python
+- LangChain
+- LangChain Community
+- OpenRouter
+- Vector Databases
+- Embedding Models
+
+## Project Structure
+
+```text
+RAG/
+├── text_loaders/
+├── README.md
+├── .gitignore
+└── ...
