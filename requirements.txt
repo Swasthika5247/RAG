@@ -4,3 +4,6 @@ PyPdf
 WebBaseLoader
 python-dotenv
 langchain-openrouter
+chromadb 
+langchain-chroma
+sentence-transformers
