@@ -22,9 +22,10 @@ prompt = PromptTemplate.from_template(
 
 chain = prompt | model | parser
 
-response = chain.invoke({
-    "question": "What is the main topic of the text?",
-    "context": doc.page_content
-})
+if __name__ == "__main__":
+    response = chain.invoke({
+        "question": "What is the main topic of the text?",
+        "context": doc.page_content
+    })
 
-print(response)
+    print(response)

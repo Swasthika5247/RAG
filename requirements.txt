@@ -1,9 +1,10 @@
 langchain
 langchain_community
-PyPdf
+pyPdf
 WebBaseLoader
 python-dotenv
 langchain-openrouter
 chromadb 
 langchain-chroma
 sentence-transformers
+langchain-huggingface-hub
